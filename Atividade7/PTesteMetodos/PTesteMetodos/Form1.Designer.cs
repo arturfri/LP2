@@ -35,8 +35,6 @@
             this.exercício4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exercício5ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sairToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.copiarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.colarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.editorDeTextoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.calculadoraToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -46,7 +44,6 @@
             // 
             // menuStrip1
             // 
-            this.menuStrip1.GripMargin = new System.Windows.Forms.Padding(2, 2, 0, 2);
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(24, 24);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.exercícioToolStripMenuItem,
@@ -62,18 +59,17 @@
             // 
             // exercícioToolStripMenuItem
             // 
-            this.exercícioToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.copiarToolStripMenuItem,
-            this.colarToolStripMenuItem});
             this.exercícioToolStripMenuItem.Name = "exercícioToolStripMenuItem";
             this.exercícioToolStripMenuItem.Size = new System.Drawing.Size(110, 29);
             this.exercícioToolStripMenuItem.Text = "Exercício &2";
+            this.exercícioToolStripMenuItem.Click += new System.EventHandler(this.exercícioToolStripMenuItem_Click);
             // 
             // exercícioToolStripMenuItem1
             // 
             this.exercícioToolStripMenuItem1.Name = "exercícioToolStripMenuItem1";
             this.exercícioToolStripMenuItem1.Size = new System.Drawing.Size(110, 29);
             this.exercícioToolStripMenuItem1.Text = "Exercício &3";
+            this.exercícioToolStripMenuItem1.Click += new System.EventHandler(this.exercícioToolStripMenuItem1_Click);
             // 
             // exercício4ToolStripMenuItem
             // 
@@ -93,22 +89,6 @@
             this.sairToolStripMenuItem.Size = new System.Drawing.Size(57, 29);
             this.sairToolStripMenuItem.Text = "&Sair";
             this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
-            // 
-            // copiarToolStripMenuItem
-            // 
-            this.copiarToolStripMenuItem.Name = "copiarToolStripMenuItem";
-            this.copiarToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.C)));
-            this.copiarToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
-            this.copiarToolStripMenuItem.Text = "Copiar";
-            this.copiarToolStripMenuItem.Click += new System.EventHandler(this.copiarToolStripMenuItem_Click);
-            // 
-            // colarToolStripMenuItem
-            // 
-            this.colarToolStripMenuItem.Name = "colarToolStripMenuItem";
-            this.colarToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.V)));
-            this.colarToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
-            this.colarToolStripMenuItem.Text = "Colar";
-            this.colarToolStripMenuItem.Click += new System.EventHandler(this.colarToolStripMenuItem_Click);
             // 
             // contextMenuStrip1
             // 
@@ -138,6 +118,7 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.ContextMenuStrip = this.contextMenuStrip1;
             this.Controls.Add(this.menuStrip1);
+            this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "frmPrincipal";
             this.Text = "Teste de Métodos";
@@ -157,8 +138,6 @@
         private System.Windows.Forms.ToolStripMenuItem exercício4ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exercício5ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem sairToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem copiarToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem colarToolStripMenuItem;
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
         private System.Windows.Forms.ToolStripMenuItem editorDeTextoToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem calculadoraToolStripMenuItem;

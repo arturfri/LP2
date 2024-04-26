@@ -31,5 +31,35 @@ namespace PTesteMetodos
         {
             Close();
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnTestar1_Click(object sender, EventArgs e)
+        {
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void exercícioToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmExercicio2 frm2 = new frmExercicio2();
+            frm2.MdiParent = this;
+            frm2.WindowState = FormWindowState.Maximized;
+            frm2.Show();
+        }
+
+        private void exercícioToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            frmExercicio3 frm3 = new frmExercicio3();
+            frm3.MdiParent = this;
+            frm3.WindowState = FormWindowState.Maximized;
+            frm3.Show();
+        }
     }
 }
