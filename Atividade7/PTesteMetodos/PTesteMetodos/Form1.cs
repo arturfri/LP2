@@ -48,18 +48,48 @@ namespace PTesteMetodos
 
         private void exercícioToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmExercicio2 frm2 = new frmExercicio2();
-            frm2.MdiParent = this;
-            frm2.WindowState = FormWindowState.Maximized;
-            frm2.Show();
+            if (Application.OpenForms.OfType<frmExercicio2>().Count() > 0)
+            {
+                Application.OpenForms["frmExercicio2"].BringToFront();
+            }
+            else
+            {
+                frmExercicio2 frm2 = new frmExercicio2();
+                frm2.MdiParent = this;
+                frm2.WindowState = FormWindowState.Maximized;
+                frm2.Show();
+            }
         }
 
         private void exercícioToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            frmExercicio3 frm3 = new frmExercicio3();
-            frm3.MdiParent = this;
-            frm3.WindowState = FormWindowState.Maximized;
-            frm3.Show();
+            if (Application.OpenForms.OfType<frmExercicio3>().Count() > 0)
+            {
+                Application.OpenForms["frmExercicio3"].BringToFront();
+            }
+            else
+            {
+                frmExercicio3 frm3 = new frmExercicio3();
+                frm3.MdiParent = this;
+                frm3.WindowState = FormWindowState.Maximized;
+                frm3.Show();
+            }
+        }
+
+        private void exercício4ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            if (Application.OpenForms.OfType<frmExercicio4>().Count() > 0)
+            {
+                Application.OpenForms["frmExercicio4"].BringToFront();
+            }
+            else
+            {
+                frmExercicio4 frm4 = new frmExercicio4();
+                frm4.MdiParent = this;
+                frm4.WindowState = FormWindowState.Maximized;
+                frm4.Show();
+            }
         }
     }
 }

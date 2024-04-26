@@ -20,3 +20,4 @@ C:\Users\0030482323025\Documents\LP2\LP2\Atividade7\PTesteMetodos\PTesteMetodos\
 C:\Users\0030482323025\Documents\LP2\LP2\Atividade7\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.pdb
 C:\Users\0030482323025\Documents\LP2\LP2\Atividade7\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio3.resources
 C:\Users\0030482323025\Documents\LP2\LP2\Atividade7\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio2.resources
+C:\Users\0030482323025\Documents\LP2\LP2\Atividade7\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio4.resources
