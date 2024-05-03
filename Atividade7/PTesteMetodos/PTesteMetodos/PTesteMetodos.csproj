@@ -70,6 +70,12 @@
     <Compile Include="frmExercicio4.Designer.cs">
       <DependentUpon>frmExercicio4.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmExercicio5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExercicio5.Designer.cs">
+      <DependentUpon>frmExercicio5.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -83,6 +89,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmExercicio4.resx">
       <DependentUpon>frmExercicio4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExercicio5.resx">
+      <DependentUpon>frmExercicio5.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -91,5 +91,21 @@ namespace PTesteMetodos
                 frm4.Show();
             }
         }
+
+        private void exercício5ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            if (Application.OpenForms.OfType<frmExercicio4>().Count() > 0)
+            {
+                Application.OpenForms["frmExercicio5"].BringToFront();
+            }
+            else
+            {
+                frmExercicio5 frm5 = new frmExercicio5();
+                frm5.MdiParent = this;
+                frm5.WindowState = FormWindowState.Maximized;
+                frm5.Show();
+            }
+        }
     }
 }

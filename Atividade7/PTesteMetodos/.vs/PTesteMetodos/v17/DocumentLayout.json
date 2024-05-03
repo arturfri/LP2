@@ -1,26 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\0030482323025\\Documents\\LP2\\LP2\\Atividade7\\PTesteMetodos\\",
+  "WorkspaceRootPath": "C:\\Users\\artur\\Documents\\FATEC\\LP2\\Atividade7\\PTesteMetodos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|c:\\users\\0030482323025\\documents\\lp2\\lp2\\atividade7\\ptestemetodos\\ptestemetodos\\frmexercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|c:\\users\\artur\\documents\\fatec\\lp2\\atividade7\\ptestemetodos\\ptestemetodos\\frmexercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|solutionrelative:ptestemetodos\\frmexercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|c:\\users\\artur\\documents\\fatec\\lp2\\atividade7\\ptestemetodos\\ptestemetodos\\frmexercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|solutionrelative:ptestemetodos\\frmexercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|C:\\Users\\artur\\Documents\\FATEC\\LP2\\Atividade7\\PTesteMetodos\\ptestemetodos\\frmexercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|solutionrelative:ptestemetodos\\frmexercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|C:\\Users\\artur\\Documents\\FATEC\\LP2\\Atividade7\\PTesteMetodos\\ptestemetodos\\frmexercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|solutionrelative:ptestemetodos\\frmexercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|C:\\Users\\0030482323025\\Documents\\LP2\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|solutionrelative:PTesteMetodos\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|C:\\Users\\artur\\Documents\\FATEC\\LP2\\Atividade7\\PTesteMetodos\\ptestemetodos\\frmexercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|solutionrelative:ptestemetodos\\frmexercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|C:\\Users\\0030482323025\\Documents\\LP2\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|solutionrelative:PTesteMetodos\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|c:\\users\\artur\\documents\\fatec\\lp2\\atividade7\\ptestemetodos\\ptestemetodos\\frmexercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|solutionrelative:ptestemetodos\\frmexercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|C:\\Users\\0030482323025\\Documents\\LP2\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|C:\\Users\\artur\\Documents\\FATEC\\LP2\\Atividade7\\PTesteMetodos\\ptestemetodos\\frmexercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|solutionrelative:ptestemetodos\\frmexercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|C:\\Users\\artur\\Documents\\FATEC\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|solutionrelative:PTesteMetodos\\frmExercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|c:\\users\\0030482323025\\documents\\lp2\\lp2\\atividade7\\ptestemetodos\\ptestemetodos\\frmexercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B04E811-C592-44A2-99FD-ADDD2EEBCC1B}|PTesteMetodos\\PTesteMetodos.csproj|solutionrelative:ptestemetodos\\frmexercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +42,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "frmExercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Documents\\FATEC\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio2.cs",
+              "RelativeDocumentMoniker": "PTesteMetodos\\frmExercicio2.cs",
+              "ToolTip": "C:\\Users\\artur\\Documents\\FATEC\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio2.cs",
+              "RelativeToolTip": "PTesteMetodos\\frmExercicio2.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwCoAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T00:24:14.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmExercicio2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\artur\\Documents\\FATEC\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio2.cs",
+              "RelativeDocumentMoniker": "PTesteMetodos\\frmExercicio2.cs",
+              "ToolTip": "C:\\Users\\artur\\Documents\\FATEC\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio2.cs [Design]",
+              "RelativeToolTip": "PTesteMetodos\\frmExercicio2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T00:23:44.193Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "frmExercicio4.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\0030482323025\\Documents\\LP2\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio4.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Documents\\FATEC\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio4.cs",
               "RelativeDocumentMoniker": "PTesteMetodos\\frmExercicio4.cs",
-              "ToolTip": "C:\\Users\\0030482323025\\Documents\\LP2\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio4.cs [Design]",
+              "ToolTip": "C:\\Users\\artur\\Documents\\FATEC\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio4.cs [Design]",
               "RelativeToolTip": "PTesteMetodos\\frmExercicio4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T23:36:45.425Z",
@@ -46,11 +91,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "frmExercicio3.cs",
-              "DocumentMoniker": "C:\\Users\\0030482323025\\Documents\\LP2\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio3.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Documents\\FATEC\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio3.cs",
               "RelativeDocumentMoniker": "PTesteMetodos\\frmExercicio3.cs",
-              "ToolTip": "C:\\Users\\0030482323025\\Documents\\LP2\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio3.cs",
+              "ToolTip": "C:\\Users\\artur\\Documents\\FATEC\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio3.cs",
               "RelativeToolTip": "PTesteMetodos\\frmExercicio3.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAAACIAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,39 +104,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmExercicio3.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\0030482323025\\Documents\\LP2\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio3.cs",
-              "RelativeDocumentMoniker": "PTesteMetodos\\frmExercicio3.cs",
-              "ToolTip": "C:\\Users\\0030482323025\\Documents\\LP2\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio3.cs [Design]",
-              "RelativeToolTip": "PTesteMetodos\\frmExercicio3.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T22:57:54.45Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\0030482323025\\Documents\\LP2\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\Form1.cs",
-              "RelativeDocumentMoniker": "PTesteMetodos\\Form1.cs",
-              "ToolTip": "C:\\Users\\0030482323025\\Documents\\LP2\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\Form1.cs",
-              "RelativeToolTip": "PTesteMetodos\\Form1.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAAwFoAAAAUAAAA",
+              "Title": "frmExercicio5.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Documents\\FATEC\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio5.cs",
+              "RelativeDocumentMoniker": "PTesteMetodos\\frmExercicio5.cs",
+              "ToolTip": "C:\\Users\\artur\\Documents\\FATEC\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio5.cs",
+              "RelativeToolTip": "PTesteMetodos\\frmExercicio5.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBwAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T23:16:58.112Z",
+              "WhenOpened": "2024-05-03T00:54:47.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\0030482323025\\Documents\\LP2\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\Form1.cs",
-              "RelativeDocumentMoniker": "PTesteMetodos\\Form1.cs",
-              "ToolTip": "C:\\Users\\0030482323025\\Documents\\LP2\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\Form1.cs [Design]",
-              "RelativeToolTip": "PTesteMetodos\\Form1.cs [Design]",
+              "DocumentIndex": 5,
+              "Title": "frmExercicio4.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Documents\\FATEC\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio4.cs",
+              "RelativeDocumentMoniker": "PTesteMetodos\\frmExercicio4.cs",
+              "ToolTip": "C:\\Users\\artur\\Documents\\FATEC\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio4.cs",
+              "RelativeToolTip": "PTesteMetodos\\frmExercicio4.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAiwD4AAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T23:15:30.71Z",
+              "WhenOpened": "2024-05-03T00:27:50.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmExercicio5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\artur\\Documents\\FATEC\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio5.cs",
+              "RelativeDocumentMoniker": "PTesteMetodos\\frmExercicio5.cs",
+              "ToolTip": "C:\\Users\\artur\\Documents\\FATEC\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio5.cs [Design]",
+              "RelativeToolTip": "PTesteMetodos\\frmExercicio5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T00:54:12.554Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmExercicio3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\artur\\Documents\\FATEC\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio3.cs",
+              "RelativeDocumentMoniker": "PTesteMetodos\\frmExercicio3.cs",
+              "ToolTip": "C:\\Users\\artur\\Documents\\FATEC\\LP2\\Atividade7\\PTesteMetodos\\PTesteMetodos\\frmExercicio3.cs [Design]",
+              "RelativeToolTip": "PTesteMetodos\\frmExercicio3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T22:57:54.45Z",
               "EditorCaption": " [Design]"
             }
           ]

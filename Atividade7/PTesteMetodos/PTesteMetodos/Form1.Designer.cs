@@ -44,7 +44,6 @@
             // 
             // menuStrip1
             // 
-            this.menuStrip1.GripMargin = new System.Windows.Forms.Padding(2, 2, 0, 2);
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(24, 24);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.exercícioToolStripMenuItem,
@@ -54,41 +53,43 @@
             this.sairToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 33);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(4, 1, 0, 1);
+            this.menuStrip1.Size = new System.Drawing.Size(533, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
             // exercícioToolStripMenuItem
             // 
             this.exercícioToolStripMenuItem.Name = "exercícioToolStripMenuItem";
-            this.exercícioToolStripMenuItem.Size = new System.Drawing.Size(110, 29);
+            this.exercícioToolStripMenuItem.Size = new System.Drawing.Size(75, 22);
             this.exercícioToolStripMenuItem.Text = "Exercício &2";
             this.exercícioToolStripMenuItem.Click += new System.EventHandler(this.exercícioToolStripMenuItem_Click);
             // 
             // exercícioToolStripMenuItem1
             // 
             this.exercícioToolStripMenuItem1.Name = "exercícioToolStripMenuItem1";
-            this.exercícioToolStripMenuItem1.Size = new System.Drawing.Size(110, 29);
+            this.exercícioToolStripMenuItem1.Size = new System.Drawing.Size(75, 22);
             this.exercícioToolStripMenuItem1.Text = "Exercício &3";
             this.exercícioToolStripMenuItem1.Click += new System.EventHandler(this.exercícioToolStripMenuItem1_Click);
             // 
             // exercício4ToolStripMenuItem
             // 
             this.exercício4ToolStripMenuItem.Name = "exercício4ToolStripMenuItem";
-            this.exercício4ToolStripMenuItem.Size = new System.Drawing.Size(110, 29);
+            this.exercício4ToolStripMenuItem.Size = new System.Drawing.Size(75, 22);
             this.exercício4ToolStripMenuItem.Text = "Exercício &4";
             this.exercício4ToolStripMenuItem.Click += new System.EventHandler(this.exercício4ToolStripMenuItem_Click);
             // 
             // exercício5ToolStripMenuItem
             // 
             this.exercício5ToolStripMenuItem.Name = "exercício5ToolStripMenuItem";
-            this.exercício5ToolStripMenuItem.Size = new System.Drawing.Size(110, 29);
+            this.exercício5ToolStripMenuItem.Size = new System.Drawing.Size(75, 22);
             this.exercício5ToolStripMenuItem.Text = "Exercício &5";
+            this.exercício5ToolStripMenuItem.Click += new System.EventHandler(this.exercício5ToolStripMenuItem_Click);
             // 
             // sairToolStripMenuItem
             // 
             this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
-            this.sairToolStripMenuItem.Size = new System.Drawing.Size(57, 29);
+            this.sairToolStripMenuItem.Size = new System.Drawing.Size(38, 22);
             this.sairToolStripMenuItem.Text = "&Sair";
             this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
             // 
@@ -99,29 +100,30 @@
             this.editorDeTextoToolStripMenuItem,
             this.calculadoraToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(203, 68);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(153, 48);
             // 
             // editorDeTextoToolStripMenuItem
             // 
             this.editorDeTextoToolStripMenuItem.Name = "editorDeTextoToolStripMenuItem";
-            this.editorDeTextoToolStripMenuItem.Size = new System.Drawing.Size(202, 32);
+            this.editorDeTextoToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.editorDeTextoToolStripMenuItem.Text = "Editor de Texto";
             // 
             // calculadoraToolStripMenuItem
             // 
             this.calculadoraToolStripMenuItem.Name = "calculadoraToolStripMenuItem";
-            this.calculadoraToolStripMenuItem.Size = new System.Drawing.Size(202, 32);
+            this.calculadoraToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.calculadoraToolStripMenuItem.Text = "Calculadora";
             // 
             // frmPrincipal
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(533, 292);
             this.ContextMenuStrip = this.contextMenuStrip1;
             this.Controls.Add(this.menuStrip1);
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "frmPrincipal";
             this.Text = "Teste de Métodos";
             this.menuStrip1.ResumeLayout(false);

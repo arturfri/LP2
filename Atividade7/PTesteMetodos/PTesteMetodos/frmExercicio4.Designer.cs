@@ -28,75 +28,75 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btnInverte = new System.Windows.Forms.Button();
-            this.label2 = new System.Windows.Forms.Label();
+            this.btnProcuraVazio = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
-            this.btnRemove = new System.Windows.Forms.Button();
-            this.txtPalavra2 = new System.Windows.Forms.TextBox();
-            this.txtPalavra1 = new System.Windows.Forms.TextBox();
+            this.btnCountNumeric = new System.Windows.Forms.Button();
+            this.rchTxtTexto = new System.Windows.Forms.RichTextBox();
+            this.btnContarLetras = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // btnInverte
+            // btnProcuraVazio
             // 
-            this.btnInverte.Location = new System.Drawing.Point(502, 286);
-            this.btnInverte.Name = "btnInverte";
-            this.btnInverte.Size = new System.Drawing.Size(215, 91);
-            this.btnInverte.TabIndex = 18;
-            this.btnInverte.Text = "Inverter primeiro";
-            this.btnInverte.UseVisualStyleBackColor = true;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(84, 123);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(74, 20);
-            this.label2.TabIndex = 17;
-            this.label2.Text = "Palavra 2";
+            this.btnProcuraVazio.Location = new System.Drawing.Point(192, 186);
+            this.btnProcuraVazio.Margin = new System.Windows.Forms.Padding(2);
+            this.btnProcuraVazio.Name = "btnProcuraVazio";
+            this.btnProcuraVazio.Size = new System.Drawing.Size(143, 59);
+            this.btnProcuraVazio.TabIndex = 18;
+            this.btnProcuraVazio.Text = "Contar espaços em branco";
+            this.btnProcuraVazio.UseVisualStyleBackColor = true;
+            this.btnProcuraVazio.Click += new System.EventHandler(this.btnProcuraVazio_Click);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(84, 74);
+            this.label1.Location = new System.Drawing.Point(50, 26);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(74, 20);
+            this.label1.Size = new System.Drawing.Size(34, 13);
             this.label1.TabIndex = 16;
-            this.label1.Text = "Palavra 1";
+            this.label1.Text = "Texto";
             // 
-            // btnRemove
+            // btnCountNumeric
             // 
-            this.btnRemove.Location = new System.Drawing.Point(219, 286);
-            this.btnRemove.Name = "btnRemove";
-            this.btnRemove.Size = new System.Drawing.Size(186, 91);
-            this.btnRemove.TabIndex = 15;
-            this.btnRemove.Text = "Exercicio 4";
-            this.btnRemove.UseVisualStyleBackColor = true;
+            this.btnCountNumeric.Location = new System.Drawing.Point(29, 186);
+            this.btnCountNumeric.Margin = new System.Windows.Forms.Padding(2);
+            this.btnCountNumeric.Name = "btnCountNumeric";
+            this.btnCountNumeric.Size = new System.Drawing.Size(124, 59);
+            this.btnCountNumeric.TabIndex = 15;
+            this.btnCountNumeric.Text = "Contar numéricos";
+            this.btnCountNumeric.UseVisualStyleBackColor = true;
+            this.btnCountNumeric.Click += new System.EventHandler(this.btnCountNumeric_Click);
             // 
-            // txtPalavra2
+            // rchTxtTexto
             // 
-            this.txtPalavra2.Location = new System.Drawing.Point(178, 117);
-            this.txtPalavra2.Name = "txtPalavra2";
-            this.txtPalavra2.Size = new System.Drawing.Size(100, 26);
-            this.txtPalavra2.TabIndex = 14;
+            this.rchTxtTexto.Location = new System.Drawing.Point(53, 42);
+            this.rchTxtTexto.Name = "rchTxtTexto";
+            this.rchTxtTexto.Size = new System.Drawing.Size(100, 96);
+            this.rchTxtTexto.TabIndex = 19;
+            this.rchTxtTexto.Text = "";
             // 
-            // txtPalavra1
+            // btnContarLetras
             // 
-            this.txtPalavra1.Location = new System.Drawing.Point(178, 74);
-            this.txtPalavra1.Name = "txtPalavra1";
-            this.txtPalavra1.Size = new System.Drawing.Size(100, 26);
-            this.txtPalavra1.TabIndex = 13;
+            this.btnContarLetras.Location = new System.Drawing.Point(356, 186);
+            this.btnContarLetras.Margin = new System.Windows.Forms.Padding(2);
+            this.btnContarLetras.Name = "btnContarLetras";
+            this.btnContarLetras.Size = new System.Drawing.Size(143, 59);
+            this.btnContarLetras.TabIndex = 20;
+            this.btnContarLetras.Text = "Contar letras";
+            this.btnContarLetras.UseVisualStyleBackColor = true;
+            this.btnContarLetras.Click += new System.EventHandler(this.btnContarLetras_Click);
             // 
             // frmExercicio4
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.btnInverte);
-            this.Controls.Add(this.label2);
+            this.ClientSize = new System.Drawing.Size(533, 292);
+            this.Controls.Add(this.btnContarLetras);
+            this.Controls.Add(this.rchTxtTexto);
+            this.Controls.Add(this.btnProcuraVazio);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.btnRemove);
-            this.Controls.Add(this.txtPalavra2);
-            this.Controls.Add(this.txtPalavra1);
+            this.Controls.Add(this.btnCountNumeric);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmExercicio4";
             this.Text = "frmExercicio4";
             this.ResumeLayout(false);
@@ -106,11 +106,10 @@
 
         #endregion
 
-        private System.Windows.Forms.Button btnInverte;
-        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Button btnProcuraVazio;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button btnRemove;
-        private System.Windows.Forms.TextBox txtPalavra2;
-        private System.Windows.Forms.TextBox txtPalavra1;
+        private System.Windows.Forms.Button btnCountNumeric;
+        private System.Windows.Forms.RichTextBox rchTxtTexto;
+        private System.Windows.Forms.Button btnContarLetras;
     }
 }

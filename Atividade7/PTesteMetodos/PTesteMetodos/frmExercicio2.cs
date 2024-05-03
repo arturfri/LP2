@@ -35,5 +35,12 @@ namespace PTesteMetodos
                 MessageBox.Show("São difernetes");
             }
         }
+
+        private void btnInserirAsterisco_Click(object sender, EventArgs e)
+        {
+            int meio = txtPalavra1.Text.Length / 2;
+
+            txtPalavra2.Text = txtPalavra1.Text.Substring(0, meio) + "**" + txtPalavra1.Text.Substring(meio, txtPalavra1.Text.Length - meio);
+        }
     }
 }
